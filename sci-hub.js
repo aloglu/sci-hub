@@ -1,0 +1,1 @@
+(function(){window.location.href = 'https://whereisscihub.now.sh/go/' + window.location.href})()
